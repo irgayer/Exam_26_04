@@ -1,0 +1,14 @@
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\worldDb.mdf
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\worldDb_log.ldf
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.exe.config
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.exe
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.DbManager.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.DbManager.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\bin\Debug\Exam_26_04.Models.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\obj\Debug\Exam_26_04.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\obj\Debug\Exam_26_04.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\obj\Debug\Exam_26_04.ConsoleApp.csproj.CopyComplete
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\obj\Debug\Exam_26_04.exe
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04\obj\Debug\Exam_26_04.pdb

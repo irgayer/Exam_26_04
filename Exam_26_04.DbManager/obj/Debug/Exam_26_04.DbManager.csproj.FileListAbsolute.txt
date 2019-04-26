@@ -1,0 +1,11 @@
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\worldDb.mdf
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\worldDb_log.ldf
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\Exam_26_04.DbManager.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\Exam_26_04.DbManager.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\Exam_26_04.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\bin\Debug\Exam_26_04.Models.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\obj\Debug\Exam_26_04.DbManager.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\obj\Debug\Exam_26_04.DbManager.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\obj\Debug\Exam_26_04.DbManager.csproj.CopyComplete
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\obj\Debug\Exam_26_04.DbManager.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Exam_26_04\Exam_26_04.DbManager\obj\Debug\Exam_26_04.DbManager.pdb
